@@ -1,0 +1,24 @@
+{
+    "pocgatewayApp": {
+        "departmentDM" : {
+            "home": {
+                "title": "Department Dms",
+                "createLabel": "Criar um(a) novo(a) Department Dm",
+                "createOrEditLabel": "Criar ou editar um(a) Department Dm",
+                "search": "Search for Department Dm"
+            },
+            "created": "A new Department Dm is created with identifier {{ param }}",
+            "updated": "A Department Dm is updated with identifier {{ param }}",
+            "deleted": "A Department Dm is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Tem a certeza que pretende eliminar o(a) Department Dm {{ id }}?"
+            },
+            "detail": {
+                "title": "Department Dm"
+            },
+            "version": "Version",
+            "designation": "Designation",
+            "description": "Description"
+        }
+    }
+}
